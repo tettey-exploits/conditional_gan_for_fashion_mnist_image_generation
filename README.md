@@ -18,6 +18,9 @@ In this project, I extend a basic GAN by conditioning it on class labels. This a
 ## Dataset Description
 The project uses the MNIST dataset, a widely used benchmark dataset for handwritten digit classification. It consists of 70,000 grayscale images of handwritten digits (0-9), each of size 28x28 pixels.
 
+![Real Digits Sample](real_mnist_digits.png)
+
+
 ## Model Architecture
 
 ### Generator
